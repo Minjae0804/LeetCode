@@ -1,3 +1,5 @@
+#if 0
+
 #include <iostream>
 #include <algorithm>
 #include <string>
@@ -23,3 +25,5 @@ public:
         return true;
     }
 };
+
+#endif
