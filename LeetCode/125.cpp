@@ -1,3 +1,4 @@
+#if 0
 #include <string>
 #include <cctype>
 using namespace std;
@@ -34,3 +35,5 @@ public:
         return true;
     }
 };
+
+#endif
