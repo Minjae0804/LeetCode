@@ -1,4 +1,4 @@
-
+#if 0
 #define NULL nullptr
 
 struct ListNode {
@@ -13,7 +13,6 @@ public:
         ListNode* turtle = head;
         ListNode* rabbit = head;
 
-
         while (rabbit != nullptr) {
             if (rabbit == turtle) return true;
             turtle = turtle->next;
@@ -25,3 +24,5 @@ public:
         return false;
     }
 };
+
+#endif
