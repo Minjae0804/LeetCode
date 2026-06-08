@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Array">
+      <UniqueIdentifier>{569704d7-a053-4a40-9cc6-6bb82e6c637d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Array\Arr I">
+      <UniqueIdentifier>{ba8cacb6-497f-4430-8768-2ba8967e75c3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="14.cpp">
@@ -53,6 +59,15 @@
     </ClCompile>
     <ClCompile Include="190.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrQ1.cpp">
+      <Filter>소스 파일\Array\Arr I</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrQ2.cpp">
+      <Filter>소스 파일\Array\Arr I</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrQ3.cpp">
+      <Filter>소스 파일\Array\Arr I</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
