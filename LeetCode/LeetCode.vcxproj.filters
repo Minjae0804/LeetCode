@@ -60,13 +60,13 @@
     <ClCompile Include="190.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ArrQ1.cpp">
+    <ClCompile Include="ArrIQ1.cpp">
       <Filter>소스 파일\Array\Arr I</Filter>
     </ClCompile>
-    <ClCompile Include="ArrQ2.cpp">
+    <ClCompile Include="ArrIQ2.cpp">
       <Filter>소스 파일\Array\Arr I</Filter>
     </ClCompile>
-    <ClCompile Include="ArrQ3.cpp">
+    <ClCompile Include="ArrIQ3.cpp">
       <Filter>소스 파일\Array\Arr I</Filter>
     </ClCompile>
   </ItemGroup>

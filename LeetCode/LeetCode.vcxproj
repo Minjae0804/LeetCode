@@ -32,9 +32,9 @@
     <ClCompile Include="21.cpp" />
     <ClCompile Include="70.cpp" />
     <ClCompile Include="9.cpp" />
-    <ClCompile Include="ArrQ1.cpp" />
-    <ClCompile Include="ArrQ2.cpp" />
-    <ClCompile Include="ArrQ3.cpp" />
+    <ClCompile Include="ArrIQ1.cpp" />
+    <ClCompile Include="ArrIQ2.cpp" />
+    <ClCompile Include="ArrIQ3.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
