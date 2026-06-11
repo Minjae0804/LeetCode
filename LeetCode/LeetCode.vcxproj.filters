@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Array\Arr I">
       <UniqueIdentifier>{ba8cacb6-497f-4430-8768-2ba8967e75c3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Array\Arr II">
+      <UniqueIdentifier>{0307ea4c-a03f-4827-9bf4-8c9f87a9fbb0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="14.cpp">
@@ -60,14 +63,20 @@
     <ClCompile Include="190.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ArrIQ1.cpp">
+    <ClCompile Include="Arr_I_Q1.cpp">
       <Filter>소스 파일\Array\Arr I</Filter>
     </ClCompile>
-    <ClCompile Include="ArrIQ2.cpp">
+    <ClCompile Include="Arr_I_Q2.cpp">
       <Filter>소스 파일\Array\Arr I</Filter>
     </ClCompile>
-    <ClCompile Include="ArrIQ3.cpp">
+    <ClCompile Include="Arr_I_Q3.cpp">
       <Filter>소스 파일\Array\Arr I</Filter>
+    </ClCompile>
+    <ClCompile Include="Arr_II_Q1.cpp">
+      <Filter>소스 파일\Array\Arr II</Filter>
+    </ClCompile>
+    <ClCompile Include="Arr_II_Q2.cpp">
+      <Filter>소스 파일\Array\Arr II</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
