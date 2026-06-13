@@ -22,7 +22,7 @@
     <Filter Include="소스 파일\Array\Arr II">
       <UniqueIdentifier>{0307ea4c-a03f-4827-9bf4-8c9f87a9fbb0}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Array\Arr III">
+    <Filter Include="소스 파일\Array\Stack">
       <UniqueIdentifier>{add012d0-c037-42d6-b5de-5a0a7e32ffaf}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -84,8 +84,8 @@
     <ClCompile Include="Arr_II_Q3.cpp">
       <Filter>소스 파일\Array\Arr II</Filter>
     </ClCompile>
-    <ClCompile Include="Arr_III_Q1.cpp">
-      <Filter>소스 파일\Array\Arr III</Filter>
+    <ClCompile Include="Stack_Q1.cpp">
+      <Filter>소스 파일\Array\Stack</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
