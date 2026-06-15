@@ -90,5 +90,8 @@
     <ClCompile Include="Stack_Q2.cpp">
       <Filter>소스 파일\Array\Stack</Filter>
     </ClCompile>
+    <ClCompile Include="Stack_Q3.cpp">
+      <Filter>소스 파일\Array\Stack</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

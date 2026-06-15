@@ -1,5 +1,6 @@
 
 #include <vector>
+#if 0
 #include <string>
 using namespace std;
 
@@ -9,7 +10,6 @@ public:
         vector<string> stack;
         int res = 0;
         for (string s : tokens) {
-            if (tokens.size() == 1) return stoi(s);
             if (s == "+" || s == "-" || s == "*" || s == "/") {
                 auto b = stoi(stack.back()); stack.pop_back();
                 auto a = stoi(stack.back()); stack.pop_back();
@@ -22,6 +22,8 @@ public:
                 stack.push_back(s);
             }
         }
-        return res;
+        return stoi(stack.back());
     }
 };
+
+#endif

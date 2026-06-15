@@ -40,6 +40,7 @@
     <ClCompile Include="Arr_I_Q3.cpp" />
     <ClCompile Include="Arr_II_Q1.cpp" />
     <ClCompile Include="Stack_Q2.cpp" />
+    <ClCompile Include="Stack_Q3.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
