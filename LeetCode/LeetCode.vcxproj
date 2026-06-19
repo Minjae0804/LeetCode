@@ -32,6 +32,7 @@
     <ClCompile Include="20.cpp" />
     <ClCompile Include="206.cpp" />
     <ClCompile Include="21.cpp" />
+    <ClCompile Include="217.cpp" />
     <ClCompile Include="70.cpp" />
     <ClCompile Include="9.cpp" />
     <ClCompile Include="Stack_Q1.cpp" />
