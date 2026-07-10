@@ -14,5 +14,4 @@ public:
         
         return write_index;
     }
-
 };
