@@ -47,6 +47,8 @@
     <ClCompile Include="338.cpp" />
     <ClCompile Include="5.cpp" />
     <ClCompile Include="572.cpp" />
+    <ClCompile Include="58.cpp" />
+    <ClCompile Include="58a.cpp" />
     <ClCompile Include="70.cpp" />
     <ClCompile Include="9.cpp" />
     <ClCompile Include="Stack_Q1.cpp" />
