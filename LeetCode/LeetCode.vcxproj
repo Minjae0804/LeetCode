@@ -49,6 +49,8 @@
     <ClCompile Include="572.cpp" />
     <ClCompile Include="58.cpp" />
     <ClCompile Include="58a.cpp" />
+    <ClCompile Include="66.cpp" />
+    <ClCompile Include="67.cpp" />
     <ClCompile Include="70.cpp" />
     <ClCompile Include="9.cpp" />
     <ClCompile Include="Stack_Q1.cpp" />
@@ -60,6 +62,7 @@
     <ClCompile Include="Arr_II_Q1.cpp" />
     <ClCompile Include="Stack_Q2.cpp" />
     <ClCompile Include="Stack_Q3.cpp" />
+    <ClCompile Include="sort.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>

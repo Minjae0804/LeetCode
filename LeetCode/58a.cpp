@@ -1,3 +1,4 @@
+#if 0
 #include <string>
 
 using namespace std;
@@ -13,3 +14,5 @@ public:
         return len;
     }
 };
+
+#endif

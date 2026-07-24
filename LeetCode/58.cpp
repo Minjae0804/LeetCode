@@ -1,3 +1,4 @@
+#if 0
 #include <string>
 
 using namespace std;
@@ -27,3 +28,5 @@ public:
         return breakflag ? len : s.size() - frontspace;
     }
 };
+
+#endif
