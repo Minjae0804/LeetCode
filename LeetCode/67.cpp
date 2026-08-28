@@ -1,6 +1,6 @@
 #include <string>
 #include <vector>
-
+#include <iostream>
 using namespace std;
 
 class Solution {
@@ -24,7 +24,12 @@ public:
     void carry(string& s, int i) {
         if (i == 0) { s.insert(s.begin(), '1'); return; }
 
-        if (s[i - 1] == '1') { s[i - 1] = '0'; carry(s, i - 1); } 
+        if (s[i - 1] == '1') { s[i - 1] = '0'; carry(s, i - 1); }
         else { s[i - 1] = '1'; return; }
+    };
+
+
+    int main() {
+        Solution s;
+        std::cout << s.addBinary("1111", "1111100101") << std::endl;
     }
-};
